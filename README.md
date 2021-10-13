@@ -9,7 +9,7 @@ git clone https://github.com/jmrcsnchz/nosecrets.git
 pip3 install requests
 ```
 ```bash
-pip3 install BeautifulSoup
+pip3 install bs4
 ```
 
 ## Usage
