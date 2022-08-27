@@ -1,4 +1,4 @@
-# nosecrets
+# nosecrets 0day Exploit  - Working as of 8/28/22
 https://www.secretmessage.link/ 0day exploit | read message board of any accounts<br>Devs didn't reply, no one's stopping me from releasing this then
 
 ![secretm](https://raw.githubusercontent.com/jmrcsnchz/nosecrets/main/secretm.png)
